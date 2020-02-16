@@ -1,3 +1,5 @@
+src/test/java/com/browserstack/gauge/pages/SearchSpec.java
+
 package com.browserstack.gauge.pages;
 
 import static org.junit.Assert.assertEquals;
